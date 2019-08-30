@@ -3,7 +3,7 @@ import logo_react from './assets/imgs/react.png';
 import logo_express from './assets/imgs/express.png';
 import logo_webpack from './assets/imgs/webpack.png';
 import logo_osb from './assets/imgs/outstandingboy.png'
-import logo_rext from './assets/imgs/rex-t.png'
+import logo_rext from './assets/imgs/rext.png'
 import './assets/css/app.css';
 
 class App extends Component {
@@ -19,9 +19,9 @@ class App extends Component {
         </div>
         <div className="body">
           <img src={logo_rext} className="logo_rext"/>
-          <h1>{this.state.hi} React!</h1>
+          <h1>{this.state.hi} RExT!</h1>
           <p>React+Express template by outstandingboy</p>
-          <p>Github : <a href="https://github.com/outstanding1301/react-express-template/">https://github.com/outstanding1301/react-express-template/</a></p>
+          <p>Github : <a href="https://github.com/outstanding1301/rext/">https://github.com/outstanding1301/rext/</a></p>
         </div>
         <div class="logo_container">
           <img src={logo_react} className="logo_react" alt="react logo"/>
