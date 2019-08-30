@@ -1,7 +1,7 @@
 {
   "name": "react-express-template",
   "version": "1.0.0",
-  "description": "Perfect react + express template, full stack boilerplate (React + Express + Webpack)",
+  "description": "created by REXT (https://github.com/outstanding1301/rext)",
   "main": "src/server/index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -12,6 +12,12 @@
   },
   "author": "outstandingboy",
   "license": "MIT",
+  "keywords": [
+    "rext",
+    "rex-t",
+    "react-express-template",
+    "outstandingboy"
+  ],
   "dependencies": {
     "express": "^4.17.1",
     "react": "^16.9.0",
